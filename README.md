@@ -28,21 +28,23 @@ The following link is to a flowchart diagram I created to help me analyze a part
 
 ## Mockups:
 
-    My initial 3-layout draft (mobile; non-mobile test a, non-mobile test b)
-    (http://framebox.org/AbDKz)
+  - [My initial 3-layout draft](http://framebox.org/AbDKz) (mobile; non-mobile test a, non-mobile test b)
 
-    URL for my 2nd layout (just a tad more defined)
-    (http://framebox.org/AbmBG)
+  - [URL for my 2nd layout](http://framebox.org/AbmBG) (just a tad more defined)
 
 ## Tada!
 
-[Guess Right and Be Happy!](https://kdcinfo.com/guessright/)
+Visit and Play **[Guess Right and Be Happy!](https://kdcinfo.com/guessright/)**
 
 -Keith D Commiskey
 
-  - [Keep Track](https://kdcinfo.com/keeptrack/) An online personal inventory manager
-  - [Pick-a-Meal](https://kdcinfo.com/pickameal/) Can't decide where or what to eat?
-  - [Guess Right](https://kdcinfo.com/guessright/) A little word-guessing game.
+## KDC-info Project Sites
+
+As of March 2017
+
+  - [Keep Track](https://kdcinfo.com/keeptrack/) An online personal inventory manager (`Laravel/Blade/MySQL/Bootstrap`)
+  - [Pick-a-Meal](https://kdcinfo.com/pickameal/) Can't decide where or what to eat? (`Laravel/Blade/MySQL/Bootstrap`)
+  - [Guess Right](https://kdcinfo.com/guessright/) A fun little word-guessing game (`Laravel/Vue/Vuex/Vue-router/ES2015(ES6)`)
 
 ## Internet Explorer Issues
 
